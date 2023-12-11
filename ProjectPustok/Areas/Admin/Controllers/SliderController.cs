@@ -30,7 +30,6 @@ namespace ProjectPustok.Areas.Admin.Controllers
             return View();
         }
 
-
         // Post
         [HttpPost]
         [ValidateAntiForgeryToken]
@@ -45,24 +44,33 @@ namespace ProjectPustok.Areas.Admin.Controllers
             return View(obj);
         }
 
-        /* public IActionResult Update(int id)
-         {
-             Slider slider = _db.Sliders.Find(id);
-             if (slider == null)
-             {
-                 return HttpNotFound();
-             }
-             return View(slider);
-         }
+        public async Task<IActionResult> Update(int? id)
+        {
+            if (id == null || id == 0)
+            {
+                return NotFound();
+            }
+            
+            var sliderFromDb = await _db.Sliders.FindAsync(id);
+            /*var sliderFromDbFirst = _db.Sliders.FirstOrDefault(u => u.Id == id);
+            var sliderFromDbSingle = _db.Sliders.SingleOrDefault(u => u.Id == id);*/
 
-         public IActionResult Update(Slider slider)
-         {
-             if (ModelState.IsValid)
-             {
-                 _db.Entry(slider).State = EntityState.Modified;
-                 _db.SaveChanges;
-             }
-         }*/
+            if (sliderFromDb == null)
+            {
+                return NotFound();
+            }
+
+            return View(sliderFromDb);
+        }
+
+        /*public IActionResult Update(Slider slider)
+        {
+            if (ModelState.IsValid)
+            {
+                _db.Entry(slider).State = EntityState.Modified;
+                _db.SaveChanges;
+            }
+        }*/
 
     }
 }

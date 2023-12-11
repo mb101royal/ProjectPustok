@@ -389,3 +389,4 @@ C:\Users\royal\Desktop\Folder\ProjectPustok\bin\Debug\net8.0\runtimes\win\lib\ne
 C:\Users\royal\Desktop\Folder\ProjectPustok\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\royal\Desktop\Folder\ProjectPustok\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\royal\Desktop\Folder\ProjectPustok\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\royal\Desktop\Folder\ProjectPustok\obj\Debug\net8.0\ProjectPustok.sourcelink.json
