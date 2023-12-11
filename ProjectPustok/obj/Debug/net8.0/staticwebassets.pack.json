@@ -1,0 +1,709 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ProjectPustok.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProjectPustok.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\admin\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\admin\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\admin\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\admin\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\admin\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\admin\\css\\styles.css",
+      "PackagePath": "staticwebassets\\admin\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\admin\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\admin\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\admin\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\css\\main.css",
+      "PackagePath": "staticwebassets\\core\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\core\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\Ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\core\\fonts\\Ionicons28b5.eot"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\Ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\core\\fonts\\Ionicons28b5.svg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\Ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\core\\fonts\\Ionicons28b5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\Ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\core\\fonts\\Ionicons28b5.woff"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
+      "PackagePath": "staticwebassets\\core\\fonts\\Material-Design-Iconic-Fontd1f1.ttf"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
+      "PackagePath": "staticwebassets\\core\\fonts\\Material-Design-Iconic-Fontd1f1.woff"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
+      "PackagePath": "staticwebassets\\core\\fonts\\Material-Design-Iconic-Fontd1f1.woff2"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\core\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\core\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\core\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\core\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\core\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\core\\fonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\core\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\core\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\core\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\core\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\core\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\core\\fonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\core\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\core\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\core\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\core\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\core\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\fonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\core\\fonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\bg-images\\best-seller-bg.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\bg-images\\best-seller-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\bg-images\\home-2-slider-1.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\bg-images\\home-2-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\bg-images\\home-2-slider-2.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\bg-images\\home-2-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\bg-images\\home-3-slider-1.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\bg-images\\home-3-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\bg-images\\home-3-slider-2.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\bg-images\\home-3-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\bg-images\\home-4-slider-1.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\bg-images\\home-4-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\bg-images\\home-4-slider-2.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\bg-images\\home-4-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\bg-images\\home-slider-1-ai.png",
+      "PackagePath": "staticwebassets\\core\\image\\bg-images\\home-slider-1-ai.png"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\bg-images\\home-slider-2-ai.png",
+      "PackagePath": "staticwebassets\\core\\image\\bg-images\\home-slider-2-ai.png"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\bg-images\\promo-banner-contained.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\bg-images\\promo-banner-contained.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\bg-images\\promo-banner-full.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\bg-images\\promo-banner-full.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\bg-images\\promo-banner-mid.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\bg-images\\promo-banner-mid.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\bg-images\\promo-banner-small-with-text.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\bg-images\\promo-banner-small-with-text.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\bg-images\\promo-banner-small.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\bg-images\\promo-banner-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\bg-images\\promo-banner-with-text-2--small.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\bg-images\\promo-banner-with-text-2--small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\bg-images\\promo-banner-with-text-2.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\bg-images\\promo-banner-with-text-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\bg-images\\promo-banner-with-text-big.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\bg-images\\promo-banner-with-text-big.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\bg-images\\promo-banner-with-text.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\bg-images\\promo-banner-with-text.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\favicon.ico",
+      "PackagePath": "staticwebassets\\core\\image\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\icon\\author-logo.png",
+      "PackagePath": "staticwebassets\\core\\image\\icon\\author-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\icon\\eng-flag.png",
+      "PackagePath": "staticwebassets\\core\\image\\icon\\eng-flag.png"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\icon\\germany-flag.png",
+      "PackagePath": "staticwebassets\\core\\image\\icon\\germany-flag.png"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\icon\\payment.png",
+      "PackagePath": "staticwebassets\\core\\image\\icon\\payment.png"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\icon\\quotation.png",
+      "PackagePath": "staticwebassets\\core\\image\\icon\\quotation.png"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\logo--footer.png",
+      "PackagePath": "staticwebassets\\core\\image\\logo--footer.png"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\logo.png",
+      "PackagePath": "staticwebassets\\core\\image\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\best-seller-author.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\others\\best-seller-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\blog-grid-1.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\others\\blog-grid-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\blog-grid-2.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\others\\blog-grid-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\blog-grid-3.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\others\\blog-grid-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\blog-grid-4.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\others\\blog-grid-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\blog-img-big-1.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\others\\blog-img-big-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\blog-img-big-2.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\others\\blog-img-big-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\blog-img-big-3.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\others\\blog-img-big-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\brand-1.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\others\\brand-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\brand-2.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\others\\brand-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\brand-3.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\others\\brand-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\brand-4.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\others\\brand-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\brand-5.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\others\\brand-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\brand-6.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\others\\brand-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\cat-gal-large.png",
+      "PackagePath": "staticwebassets\\core\\image\\others\\cat-gal-large.png"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\cat-gal-mid-2.png",
+      "PackagePath": "staticwebassets\\core\\image\\others\\cat-gal-mid-2.png"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\cat-gal-mid.png",
+      "PackagePath": "staticwebassets\\core\\image\\others\\cat-gal-mid.png"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\cat-gal-small-2.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\others\\cat-gal-small-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\cat-gal-small.png",
+      "PackagePath": "staticwebassets\\core\\image\\others\\cat-gal-small.png"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\client-1.png",
+      "PackagePath": "staticwebassets\\core\\image\\others\\client-1.png"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\client-2.png",
+      "PackagePath": "staticwebassets\\core\\image\\others\\client-2.png"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\client-3.png",
+      "PackagePath": "staticwebassets\\core\\image\\others\\client-3.png"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\client-4.png",
+      "PackagePath": "staticwebassets\\core\\image\\others\\client-4.png"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\client-5.png",
+      "PackagePath": "staticwebassets\\core\\image\\others\\client-5.png"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\home-blog-1.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\others\\home-blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\home-blog-2.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\others\\home-blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\others\\home-side-promo.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\others\\home-side-promo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\products\\cart-product-1.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\products\\cart-product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\products\\product-1.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\products\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\products\\product-10.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\products\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\products\\product-11.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\products\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\products\\product-12.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\products\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\products\\product-13.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\products\\product-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\products\\product-2.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\products\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\products\\product-3.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\products\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\products\\product-4.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\products\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\products\\product-5.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\products\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\products\\product-6.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\products\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\products\\product-7.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\products\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\products\\product-8.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\products\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\products\\product-9.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\products\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\products\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\products\\product-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\products\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\products\\product-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\products\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\products\\product-details-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\products\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\products\\product-details-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\image\\products\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\core\\image\\products\\product-details-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\js\\ajax-mail.js",
+      "PackagePath": "staticwebassets\\core\\js\\ajax-mail.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\js\\custom.js",
+      "PackagePath": "staticwebassets\\core\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\core\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\core\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\css\\bootswatchTheme.css",
+      "PackagePath": "staticwebassets\\css\\bootswatchTheme.css"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\royal\\Desktop\\Folder\\ProjectPustok\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProjectPustok.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProjectPustok.props",
+      "PackagePath": "build\\ProjectPustok.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjectPustok.props",
+      "PackagePath": "buildMultiTargeting\\ProjectPustok.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProjectPustok.props",
+      "PackagePath": "buildTransitive\\ProjectPustok.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
